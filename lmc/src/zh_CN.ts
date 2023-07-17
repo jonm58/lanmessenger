@@ -69,7 +69,7 @@
     <message>
         <location filename="broadcastwindow.ui" line="246"/>
         <source>Select None</source>
-        <translation>選択しない</translation>
+        <translation>取消全选</translation>
     </message>
     <message>
         <location filename="broadcastwindow.ui" line="178"/>
@@ -99,42 +99,42 @@
     <message>
         <location filename="filemodelview.cpp" line="39"/>
         <source>0 bytes</source>
-        <translation type="unfinished">0 バイト</translation>
+        <translation type="unfinished">0 字节</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="40"/>
         <source>0 bytes/sec</source>
-        <translation type="unfinished">0 バイト/秒</translation>
+        <translation type="unfinished">0 字节/秒</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="41"/>
         <source>Calculating time</source>
-        <translation type="unfinished">所要時間を計算中</translation>
+        <translation type="unfinished">计算所需时间</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="79"/>
         <source>To: </source>
-        <translation type="unfinished">送信先: </translation>
+        <translation type="unfinished">发送到: </translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="79"/>
         <source>From: </source>
-        <translation type="unfinished">送信元: </translation>
+        <translation type="unfinished">发送者: </translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="103"/>
         <source>Completed</source>
-        <translation>完了しました</translation>
+        <translation>完成</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="106"/>
         <source>Canceled</source>
-        <translation>キャンセルされました</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="109"/>
         <source>Interrupted</source>
-        <translation type="unfinished">中断されました</translation>
+        <translation type="unfinished">中断</translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
     <message>
         <location filename="helpwindow.ui" line="55"/>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -175,7 +175,7 @@
     <message>
         <location filename="historywindow.ui" line="156"/>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -188,27 +188,27 @@
     <message>
         <location filename="mainwindow.ui" line="124"/>
         <source>Username</source>
-        <translation>ユーザー名</translation>
+        <translation>用户名</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="168"/>
         <source>Status</source>
-        <translation>状態</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="186"/>
         <source>Type a note</source>
-        <translation>簡単な説明を入力</translation>
+        <translation>输入简要说明</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="211"/>
         <source>Change avatar</source>
-        <translation>画像の変更</translation>
+        <translation>更改头像</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="324"/>
         <source>Contacts</source>
-        <translation>コンタクト</translation>
+        <translation>联系人</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1155"/>
         <source>Reset All</source>
-        <translation>すべて初期化</translation>
+        <translation>全部重置</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1327"/>
