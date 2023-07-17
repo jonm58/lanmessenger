@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ja_JP" sourcelanguage="en_US">
+<TS version="2.1" language="zh_CN" sourcelanguage="en_US">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -20,8 +20,8 @@
     </message>
     <message>
         <location filename="aboutdialog.ui" line="60"/>
-        <source>关于</source>
-        <translation>このソフト</translation>
+        <source>About</source>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="aboutdialog.ui" line="81"/>
@@ -160,17 +160,17 @@
     <message>
         <location filename="historywindow.ui" line="76"/>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation>名字</translation>
     </message>
     <message>
         <location filename="historywindow.ui" line="81"/>
         <source>Date</source>
-        <translation>日時</translation>
+        <translation>日期</translation>
     </message>
     <message>
         <location filename="historywindow.ui" line="133"/>
         <source>Clear History</source>
-        <translation>履歴をクリア</translation>
+        <translation>清除历史记录</translation>
     </message>
     <message>
         <location filename="historywindow.ui" line="156"/>
@@ -227,52 +227,52 @@
         <location filename="settingsdialog.ui" line="1327"/>
         <source>Broadcast address:</source>
         <oldsource>Broadcast Address:</oldsource>
-        <translation>ブロードキャスト・アドレス:</translation>
+        <translation>广播地址:</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1364"/>
         <source>&lt;- Add</source>
-        <translation>リストに追加</translation>
+        <translation>增加</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1391"/>
         <source>Delete</source>
-        <translation>削除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1420"/>
         <source>Advanced</source>
-        <translation>上級者用</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1428"/>
         <source>Multicast address:</source>
-        <translation>マルチキャストアドレス:</translation>
+        <translation>组播地址:</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1789"/>
         <source>Chat Theme</source>
-        <translation>会話画面のテーマ</translation>
+        <translation>对话屏幕主题</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1849"/>
         <source>Contacts List</source>
-        <translation>コンタクトリスト</translation>
+        <translation>联系人列表</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1857"/>
         <source>Contacts list view:</source>
-        <translation>コンタクトリストの表示:</translation>
+        <translation>联系人列表视图:</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1882"/>
         <source>Show status as tooltip</source>
-        <translation>ツールチップで相手の状態の設定を表示</translation>
+        <translation>将状态显示为工具提示</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1948"/>
         <source>Send messages using:</source>
-        <translation>メッセージ送信に使用:</translation>
+        <translation>发送消息使用:</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1973"/>
@@ -289,7 +289,7 @@
     <message>
         <location filename="settingsdialog.ui" line="2041"/>
         <source>Reset Preferences</source>
-        <translation>設定の初期化</translation>
+        <translation>重置选项</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="2061"/>
@@ -299,34 +299,34 @@
     <message>
         <location filename="settingsdialog.ui" line="2071"/>
         <source>Cancel</source>
-        <translation>キャンセル</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="59"/>
         <location filename="settingsdialog.ui" line="141"/>
         <source>General</source>
-        <translation>一般</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="94"/>
         <location filename="settingsdialog.ui" line="1782"/>
         <source>Appearance</source>
-        <translation>外観</translation>
+        <translation>外观</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="148"/>
         <source>System</source>
-        <translation>システム</translation>
+        <translation>系统</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="154"/>
         <source>Start %1 on system startup</source>
-        <translation>OS起動時に %1 を起動</translation>
+        <translation>在系统启动时启动 %1 </translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="161"/>
         <source>Show main window when %1 starts</source>
-        <translation>%1 起動時にメイン画面を表示</translation>
+        <translation>%1 启动时显示主屏幕</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="171"/>
